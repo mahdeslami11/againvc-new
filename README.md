@@ -86,6 +86,17 @@ https://colab.research.google.com/drive/1Q3v2bTKPV0jB1F_dBT1YuqINDq9a52qO?usp=sh
 
 
 
+1. Using an encoder to separate speaker and content information to improve synthesis quality and reduce model size at the same time.
+  2. Introducing the activation guide, applying an additional activation function as an information bottleneck to guide content embeddings in continuous space, to improve the trade-off between synthesis quality and separation ability.
+
+2.Describe innovation
+
+
+The use of encoder and decoder blocks or the use of convolutional and recurrent neural networks
+
+
+
+
 
 
 
@@ -551,3 +562,16 @@ class Model(nn.Module):
         dec = y[:,:,:original_source_len]
 
         return dec
+
+
+5.https://github.com/KimythAnly/AGAIN-VC
+
+6.Pegah Shafiei, senior student of medical engineering at South Tehran University with student number 40014140111043, dsp course
+
+7.https://drive.google.com/file/d/1sTpefreBEOJa9DKSO5jI6VhxGbzZDd1s/view?usp=drivesdk
+
+8.https://aparat.com/v/PSy9q
+https://aparat.com/v/oj5zq
+
+9.
+
