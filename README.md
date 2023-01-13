@@ -566,7 +566,7 @@ class Model(nn.Module):
 
 5.https://github.com/KimythAnly/AGAIN-VC
 
-6.Pegah Shafiei, senior student of medical engineering at South Tehran University with student number 40014140111043, dsp course
+6.Pegah Shafiei, I am a master's student at South Tehran University, in the field of medical engineering, bioelectrical orientation.  with student number 40014140111043, dsp course
 
 7.https://drive.google.com/file/d/1sTpefreBEOJa9DKSO5jI6VhxGbzZDd1s/view?usp=drivesdk
 
